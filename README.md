@@ -1,4 +1,4 @@
-## Olá, sou o Alisson Castro 
+## Olá,eu sou o Alisson Castro 
 
 - 🖥️ Desenvolvendo Projetos de Programação WEB
 - 🌱 Estudando Javascript
