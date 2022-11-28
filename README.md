@@ -1,7 +1,7 @@
 ## Olá,eu sou o Alisson Castro 
 
 - 🖥️ Desenvolvendo Projetos de Programação WEB
-- 🌱 Estudando ReactJS
+- 🌱 Estudando ReactJS e NextJS
 - 📩 Contate-me por email: feitozaac@gmail.com
 
 <div align="center">
